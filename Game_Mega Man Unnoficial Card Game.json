@@ -5,12 +5,12 @@
     "backgrounds": [
       "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Other%20Images/Mega%20Man%2010th%20Anniversary%20Image.jpg?raw=true"
     ],
-    "decksUrl": ""
+    "decksUrl": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/StarterDecks.json"
   },
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/CardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/970f2939edb76026bc20a3ada4b3c18642740bf6/CardList.json",
     "cardBack": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/6212a7835ad703d3122d4177485602065dc51384/Other%20Images/Mega%20Man%2035th%20Anniversary%20Image.jpg"
   },
   "deckBuilding": {
@@ -23,9 +23,9 @@
     "formats": [
       {
         "title": "Classic",
-        "gameplay": "Standard Rule Set",
+        "gameplay": "Classic",
         "customCategories": [
-          "Extra_Folder",
+          "Extra Folder",
           "Stage"
         ]
       }
@@ -55,37 +55,21 @@
       "sections": {
         "customSections": [
           "Stage_Panel",
-          "Stage_Loaded",
           "Item_Panel-1",
-          "Item_Loaded-1",
           "Item_Panel-2",
-          "Item_Loaded-2",
           "Operator_Panel-1",
-          "Operator_Loaded-1",
           "Operator_Panel-2",
-          "Operator_Loaded-2",
           "Operator_Panel-3",
-          "Operator_Loaded-3",
           "Operator_Panel-4",
-          "Operator_Loaded-4",
           "Unit_Panel-1",
-          "Unit_Loaded-1",
           "Unit_Panel-2",
-          "Unit_Loaded-2",
           "Unit_Panel-3",
-          "Unit_Loaded-3",
           "Unit_Panel-4",
-          "Unit_Loaded-4",
           "Unit_Panel-5",
-          "Unit_Loaded-5",
           "Unit_Panel-6",
-          "Unit_Loaded-6",
           "Unit_Panel-7",
-          "Unit_Loaded-7",
           "Unit_Panel-8",
-          "Unit_Loaded-8",
           "Unit_Panel-9",
-          "Unit_Loaded-9",
           "Extra_Folder"
         ],
         "layout": {
@@ -96,7 +80,7 @@
               "direction": "column",
               "style": {
                 "justifyContent": "start",
-                "width": "60vh"
+                "width": "120vh"
               },
               "content": [
                 {
@@ -118,32 +102,17 @@
                     {
                       "section": "Unit_Panel-9",
                       "style": false
+                    },
+                    {
+                      "section": "Operator_Panel-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Operator_Panel-2",
+                      "style": false
                     }
                   ],
                   "isSymetricalForOpponents": true
-                },
-                {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Item_Loaded-1",
-                      "style": false
-                    },
-                    {
-                      "section": "Unit_Loaded-7",
-                      "style": false
-                    },
-                    {
-                      "section": "Unit_Loaded-8",
-                      "style": false
-                    },
-                    {
-                      "section": "Unit_Loaded-9",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
                 },
                 {
                   "direction": "row",
@@ -164,28 +133,13 @@
                     {
                       "section": "Unit_Panel-6",
                       "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
-                },
-                {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
+                    },
                     {
-                      "section": "Stage_Loaded",
+                      "section": "Operator_Panel-3",
                       "style": false
                     },
                     {
-                      "section": "Unit_Loaded-4",
-                      "style": false
-                    },
-                    {
-                      "section": "Unit_Loaded-5",
-                      "style": false
-                    },
-                    {
-                      "section": "Unit_Loaded-6",
+                      "section": "Operator_Panel-4",
                       "style": false
                     }
                   ],
@@ -219,69 +173,11 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Item_Loaded-2",
-                      "style": false
-                    },
-                    {
-                      "section": "Unit_Loaded-1",
-                      "style": false
-                    },
-                    {
-                      "section": "Unit_Loaded-2",
-                      "style": false
-                    },
-                    {
-                      "section": "Unit_Loaded-3",
+                      "section": "Extra_Folder",
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": false
-                },
-                {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Operator_Panel-1",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Panel-2",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Panel-3",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Panel-4",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
-                },
-                {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Operator_Loaded-1",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Loaded-2",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Loaded-3",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Loaded-4",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "isSymetricalForOpponents": true
                 }
               ],
               "isSymetricalForOpponents": true
@@ -289,8 +185,8 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Stage_Panel",
-          "Extra_Folder"
+          "Stage->Stage_Panel",
+          "Extra Folder->Extra_Folder"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -311,43 +207,11 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
-          "Stage_Panel": {
-            "title": "Stage_Panel",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Stage Panel",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false
-          },
-          "Stage_Loaded": {
-            "title": "Stage_Loaded",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Item_Panel-1": {
             "title": "Item_Panel-1",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -359,27 +223,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Item_Loaded-1": {
-            "title": "Item_Loaded-1",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Item Loaded 1",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Item_Panel-2": {
             "title": "Item_Panel-2",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -391,27 +239,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Item_Loaded-2": {
-            "title": "Item_Loaded-2",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Item Loaded 2",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Unit_Panel-1": {
             "title": "Unit_Panel-1",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -423,27 +255,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Unit_Loaded-1": {
-            "title": "Unit_Loaded-1",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unit Loaded 1",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Unit_Panel-2": {
             "title": "Unit_Panel-2",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -455,27 +271,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Unit_Loaded-2": {
-            "title": "Unit_Loaded-2",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unit Loaded 2",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Unit_Panel-3": {
             "title": "Unit_Panel-3",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -487,27 +287,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Unit_Loaded-3": {
-            "title": "Unit_Loaded-3",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unit Loaded 3",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Unit_Panel-4": {
             "title": "Unit_Panel-4",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -519,27 +303,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Unit_Loaded-4": {
-            "title": "Unit_Loaded-4",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unit Loaded 4",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Unit_Panel-5": {
             "title": "Unit_Panel-5",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -551,27 +319,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Unit_Loaded-5": {
-            "title": "Unit_Loaded-5",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unit Loaded 5",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Unit_Panel-6": {
             "title": "Unit_Panel-6",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -583,27 +335,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Unit_Loaded-6": {
-            "title": "Unit_Loaded-6",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unit Loaded 6",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Unit_Panel-7": {
             "title": "Unit_Panel-7",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -615,27 +351,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Unit_Loaded-7": {
-            "title": "Unit_Loaded-7",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unit Loaded 7",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Unit_Panel-8": {
             "title": "Unit_Panel-8",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -647,27 +367,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Unit_Loaded-8": {
-            "title": "Unit_Loaded-8",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unit Loaded 8",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Unit_Panel-9": {
             "title": "Unit_Panel-9",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -679,27 +383,11 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Unit_Loaded-9": {
-            "title": "Unit_Loaded-9",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unit Loaded 9",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Operator_Panel-1": {
             "title": "Operator_Panel-1",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -711,27 +399,11 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Operator_Loaded-1": {
-            "title": "Operator_Loaded-1",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Operator Loaded 1",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Operator_Panel-2": {
             "title": "Operator_Panel-2",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -743,27 +415,11 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Operator_Loaded-2": {
-            "title": "Operator_Loaded-2",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Operator Loaded 2",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Operator_Panel-3": {
             "title": "Operator_Panel-3",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -775,27 +431,11 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Operator_Loaded-3": {
-            "title": "Operator_Loaded-3",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Operator Loaded 3",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Operator_Panel-4": {
             "title": "Operator_Panel-4",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -807,36 +447,20 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Operator_Loaded-4": {
-            "title": "Operator_Loaded-4",
+          "Stage_Panel": {
+            "title": "Stage_Panel",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Operator Loaded 4",
-            "noQuickActions": true,
+            "displayedTitle": "Stage Panel",
+            "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Stage": {
-            "title": "Stage",
-            "isHidden": "opponent-only",
-            "height": "BIG",
-            "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Stage",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           }
         }
