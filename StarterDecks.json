@@ -188,5 +188,100 @@
       }
     ]
   }
+},
+  {
+  "title": "Lightning Battle",
+  "id": "52c59fba-7be8-438d-8d93-7c85c1a9e710",
+  "cardCount": 61,
+  "createdAt": "2026-04-03T20:43:15.466Z",
+  "lastModifiedAt": "2026-04-03T21:27:11.878Z",
+  "game": "Mega Man Unnoficial Card Game",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Stage",
+      "Unit",
+      "Operator",
+      "Item"
+    ],
+    "Stage": [
+      {
+        "count": 1,
+        "id": "SD03-01"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 4,
+        "id": "SD03-02"
+      },
+      {
+        "count": 4,
+        "id": "SD03-03"
+      },
+      {
+        "count": 4,
+        "id": "SD03-06"
+      },
+      {
+        "count": 4,
+        "id": "SD03-07"
+      },
+      {
+        "count": 4,
+        "id": "SD03-08"
+      },
+      {
+        "count": 4,
+        "id": "SD03-09"
+      },
+      {
+        "count": 4,
+        "id": "SD03-10"
+      },
+      {
+        "count": 4,
+        "id": "SD03-11"
+      },
+      {
+        "count": 2,
+        "id": "SD03-05"
+      }
+    ],
+    "Operator": [
+      {
+        "count": 4,
+        "id": "SD03-12"
+      },
+      {
+        "count": 4,
+        "id": "SD03-13"
+      },
+      {
+        "count": 4,
+        "id": "SD03-14"
+      }
+    ],
+    "Item": [
+      {
+        "count": 4,
+        "id": "SD03-15"
+      },
+      {
+        "count": 3,
+        "id": "SD03-17"
+      },
+      {
+        "count": 3,
+        "id": "SD03-18"
+      },
+      {
+        "count": 4,
+        "id": "SD03-16"
+      }
+    ]
+  }
 }
 ]
