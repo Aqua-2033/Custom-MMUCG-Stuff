@@ -5,12 +5,12 @@
     "backgrounds": [
       "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Other%20Images/Mega%20Man%2010th%20Anniversary%20Image.jpg?raw=true"
     ],
-    "decksUrl": ""
+    "decksUrl": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/StarterDecks.json"
   },
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/CardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/970f2939edb76026bc20a3ada4b3c18642740bf6/CardList.json",
     "cardBack": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/6212a7835ad703d3122d4177485602065dc51384/Other%20Images/Mega%20Man%2035th%20Anniversary%20Image.jpg"
   },
   "deckBuilding": {
