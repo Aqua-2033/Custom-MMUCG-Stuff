@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/970f2939edb76026bc20a3ada4b3c18642740bf6/CardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/CardList.json",
     "cardBack": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/6212a7835ad703d3122d4177485602065dc51384/Other%20Images/Mega%20Man%2035th%20Anniversary%20Image.jpg"
   },
   "deckBuilding": {
@@ -80,7 +80,7 @@
               "direction": "column",
               "style": {
                 "justifyContent": "start",
-                "width": "120vh"
+                "width": "100vh"
               },
               "content": [
                 {
@@ -101,14 +101,6 @@
                     },
                     {
                       "section": "Unit_Panel-9",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Panel-1",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Panel-2",
                       "style": false
                     }
                   ],
@@ -133,17 +125,9 @@
                     {
                       "section": "Unit_Panel-6",
                       "style": false
-                    },
-                    {
-                      "section": "Operator_Panel-3",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Panel-4",
-                      "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": false
+                  "isSymetricalForOpponents": true
                 },
                 {
                   "direction": "row",
@@ -166,18 +150,51 @@
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": false
+                  "isSymetricalForOpponents": true
+                }
+              ],
+              "isSymetricalForOpponents": true
+            },
+            {
+              "direction": "column",
+              "style": {
+                "justifyContent": "start",
+                "width": "50vh"
+              },
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Operator_Panel-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Operator_Panel-2",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
                 },
                 {
                   "direction": "row",
                   "style": false,
                   "content": [
                     {
-                      "section": "Extra_Folder",
+                      "section": "Operator_Panel-3",
+                      "style": false
+                    },
+                    {
+                      "section": "Operator_Panel-4",
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "section": "Extra_Folder",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": true
@@ -191,6 +208,127 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "reverseZOrder": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed hidden",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
           "Extra_Folder": {
             "title": "Extra_Folder",
             "isHidden": "opponent-only",
