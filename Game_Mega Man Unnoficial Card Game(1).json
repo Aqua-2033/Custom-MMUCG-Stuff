@@ -25,7 +25,7 @@
         "title": "Classic",
         "gameplay": "Standard Rule Set",
         "customCategories": [
-          "Extra_Folder",
+          "Extra Folder",
           "Stage"
         ]
       }
@@ -54,7 +54,7 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Stage",
+          "Stage_Panel",
           "Item_Panel-1",
           "Item_Panel-2",
           "Operator_Panel-1",
@@ -111,7 +111,7 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Stage",
+                      "section": "Stage_Panel",
                       "style": false
                     },
                     {
@@ -171,6 +171,10 @@
                     {
                       "section": "Operator_Panel-4",
                       "style": false
+                    },
+                    {
+                      "section": "Extra_Folder",
+                      "style": false
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -181,8 +185,8 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Stage",
-          "Extra_Folder"
+          "\"Stage\"->\"Stage_Panel\"",
+          "\"Extra Folder\"->\"Extra_Folder\""
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -190,7 +194,7 @@
           "Extra_Folder": {
             "title": "Extra_Folder",
             "isHidden": "opponent-only",
-            "height": "BIG",
+            "height": "SMALL",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -443,8 +447,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Stage": {
-            "title": "Stage",
+          "Stage_Panel": {
+            "title": "Stage_Panel",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
