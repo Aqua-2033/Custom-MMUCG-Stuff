@@ -1235,7 +1235,7 @@
       }
     },
     "name": "Count Zap",
-    "type": "Unit",
+    "type": "Operator",
     "cost": "2",
     "Integrity": 0,
     "Traits": [
