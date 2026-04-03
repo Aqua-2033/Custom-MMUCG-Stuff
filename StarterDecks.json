@@ -1,0 +1,192 @@
+[
+  {
+  "title": "Blue Bomber",
+  "id": "8a41671c-4230-4982-8794-3b4c0281e1d6",
+  "cardCount": 61,
+  "createdAt": "2026-04-03T17:39:40.985Z",
+  "lastModifiedAt": "2026-04-03T17:50:11.457Z",
+  "game": "Mega Man Unnoficial Card Game",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Unit",
+      "Stage",
+      "Operator",
+      "Item"
+    ],
+    "Unit": [
+      {
+        "count": 4,
+        "id": "SD01-02"
+      },
+      {
+        "count": 4,
+        "id": "SD01-03"
+      },
+      {
+        "count": 4,
+        "id": "SD01-04"
+      },
+      {
+        "count": 4,
+        "id": "SD01-05"
+      },
+      {
+        "count": 4,
+        "id": "SD01-06"
+      },
+      {
+        "count": 4,
+        "id": "SD01-07"
+      },
+      {
+        "count": 4,
+        "id": "SD01-08"
+      },
+      {
+        "count": 4,
+        "id": "SD01-09"
+      },
+      {
+        "count": 4,
+        "id": "SD01-10"
+      },
+      {
+        "count": 4,
+        "id": "SD01-11"
+      }
+    ],
+    "Stage": [
+      {
+        "count": 1,
+        "id": "SD01-01"
+      }
+    ],
+    "Operator": [
+      {
+        "count": 4,
+        "id": "SD01-12"
+      },
+      {
+        "count": 4,
+        "id": "SD01-13"
+      },
+      {
+        "count": 4,
+        "id": "SD01-14"
+      }
+    ],
+    "Item": [
+      {
+        "count": 2,
+        "id": "SD01-15"
+      },
+      {
+        "count": 3,
+        "id": "SD01-17"
+      },
+      {
+        "count": 3,
+        "id": "SD01-18"
+      }
+    ]
+  }
+},
+  {
+  "title": "Bursting Flames",
+  "id": "7b4a45b6-df42-499e-8990-9281f63bdde3",
+  "cardCount": 61,
+  "createdAt": "2026-04-03T17:50:21.477Z",
+  "lastModifiedAt": "2026-04-03T17:52:44.011Z",
+  "game": "Mega Man Unnoficial Card Game",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Stage",
+      "Unit",
+      "Operator",
+      "Item"
+    ],
+    "Stage": [
+      {
+        "count": 1,
+        "id": "SD02-01"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 4,
+        "id": "SD02-02"
+      },
+      {
+        "count": 4,
+        "id": "SD02-03"
+      },
+      {
+        "count": 4,
+        "id": "SD02-04"
+      },
+      {
+        "count": 4,
+        "id": "SD02-05"
+      },
+      {
+        "count": 4,
+        "id": "SD02-06"
+      },
+      {
+        "count": 4,
+        "id": "SD02-07"
+      },
+      {
+        "count": 4,
+        "id": "SD02-08"
+      },
+      {
+        "count": 4,
+        "id": "SD02-09"
+      },
+      {
+        "count": 4,
+        "id": "SD02-10"
+      },
+      {
+        "count": 4,
+        "id": "SD02-11"
+      }
+    ],
+    "Operator": [
+      {
+        "count": 4,
+        "id": "SD02-12"
+      },
+      {
+        "count": 4,
+        "id": "SD02-13"
+      },
+      {
+        "count": 4,
+        "id": "SD02-14"
+      }
+    ],
+    "Item": [
+      {
+        "count": 3,
+        "id": "SD02-18"
+      },
+      {
+        "count": 3,
+        "id": "SD02-17"
+      },
+      {
+        "count": 2,
+        "id": "SD02-16"
+      }
+    ]
+  }
+}
+]
