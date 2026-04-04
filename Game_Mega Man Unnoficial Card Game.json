@@ -24,10 +24,13 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
+        "deckRuleset": "Classic",
         "customCategories": [
           "Extra Folder",
           "Stage"
-        ],
+        ]
+      }
+    ]
         "deckRulesets": {
           "Classic": {
             "general":{
@@ -50,8 +53,6 @@
             ]
           }
         }
-      }
-    ]
   },
   "gameplay": {
     "Classic": {
