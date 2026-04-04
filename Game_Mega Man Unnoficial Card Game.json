@@ -71,7 +71,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": "0"
       },
-      "defaultNotes": "",
+      "defaultNotes": "The player counters represent the RAM Gauges.",
       "tokens": [],
       "countersStartingValues": [
         0
