@@ -31,7 +31,7 @@
         ]
       }
     ]
-    "deckRulesets": {
+    "deckRuleset": {
       "Classic": {
         "General": {
           "min": 60,
