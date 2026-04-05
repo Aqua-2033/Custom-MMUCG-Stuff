@@ -99,7 +99,7 @@
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": true,
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "column",
@@ -129,7 +129,7 @@
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
                 },
                 {
                   "direction": "row",
@@ -152,7 +152,7 @@
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
                 },
                 {
                   "direction": "row",
@@ -175,10 +175,10 @@
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "column",
@@ -200,7 +200,7 @@
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
                 },
                 {
                   "direction": "row",
@@ -222,7 +222,7 @@
                   "style": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             }
           ]
         },
