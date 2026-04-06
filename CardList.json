@@ -171,7 +171,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Proto Man",
+    "name": "Proto Man (SD01)",
     "type": "Unit",
     "cost": "4",
     "Integrity": "6",
@@ -194,7 +194,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mega Man",
+    "name": "Mega Man (SD01)",
     "type": "Unit",
     "cost": "4",
     "Integrity": "8",
@@ -217,7 +217,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Guts Man",
+    "name": "Guts Man (SD01)",
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
@@ -2603,7 +2603,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Proto Man",
+    "name": "Proto Man (CS01)",
     "type": "Unit",
     "cost": "5",
     "Integrity": "9",
@@ -2649,7 +2649,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mega Man",
+    "name": "Mega Man (CS01)",
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
@@ -2672,7 +2672,7 @@
         "isHorizontal": false
       }
     },
-    "name": "X",
+    "name": "X (CS01)",
     "type": "Unit",
     "cost": "5",
     "Integrity": "10",
@@ -2764,7 +2764,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Zero",
+    "name": "Zero (CS01)",
     "type": "Unit",
     "cost": "6",
     "Integrity": "12",
@@ -3327,5 +3327,1248 @@
     ],
     "Skill/Equip Name": "Magnet Missile",
     "Traits": "Robot | Robot Masters"
+  },
+  "CS01-055": {
+    "id": "CS01-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elec Man",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-055%20Elec%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elec Man",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Thunder Beam"
+  },
+  "CS01-056": {
+    "id": "CS01-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Volt Catfish",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-056%20Volt%20Catfish.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Volt Catfish",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Reploid/Maverick | Doppler Army",
+    "Skill/Equip Name": "Triad Thunder"
+  },
+  "CS01-057": {
+    "id": "CS01-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iworm",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-057%20Iworm.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iworm",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "1",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Reploid",
+    "Skill/Equip Name": "Foliage"
+  },
+  "CS01-058": {
+    "id": "CS01-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Petit Snakey",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-058%20Petit%20Snakey.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Petit Snakey",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "3",
+    "Set": "For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Robot",
+    "Skill/Equip Name": "Petit Shot"
+  },
+  "CS01-059": {
+    "id": "CS01-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mushy",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-059%20Mushy.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mushy",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "3",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Spice"
+  },
+  "CS01-060": {
+    "id": "CS01-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Puff Ball",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-060%20Puff%20Ball.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Puff Ball",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "5",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Poison Mask"
+  },
+  "CS01-061": {
+    "id": "CS01-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mega Nest",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-061%20Mega%20Nest.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Nest",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Mechaniloid",
+    "Skill/Equip Name": "Hive Swarm"
+  },
+  "CS01-062": {
+    "id": "CS01-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Split Mushroom",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-062%20Split%20Mushroom.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Split Mushroom",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "7",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Reploid/Maverick | Repliforce",
+    "Skill/Equip Name": "EX Skill: Kuuenbu"
+  },
+  "CS01-063": {
+    "id": "CS01-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wire Sponge",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-063%20Wire%20Sponge.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wire Sponge",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "8",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Reploid/Maverick | Sigma's Rebellion",
+    "Skill/Equip Name": "Strike Chain"
+  },
+  "CS01-064": {
+    "id": "CS01-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sting Chameleon",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-064%20Sting%20Chameleon.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sting Chameleon",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion",
+    "Skill/Equip Name": "Chameleon Sting"
+  },
+  "CS01-065": {
+    "id": "CS01-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Snake Man",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-065%20Snake%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snake Man",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Search Snake"
+  },
+  "CS01-066": {
+    "id": "CS01-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "NeedleMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-066%20NeedleMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "NeedleMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Net Navi | Nebula",
+    "Skill/Equip Name": "Needle Cannon"
+  },
+  "CS01-067": {
+    "id": "CS01-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "WoodMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-067%20WoodMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "WoodMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "Death Forest"
+  },
+  "CS01-068": {
+    "id": "CS01-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scrap Robo",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-068%20Scrap%20Robo.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scrap Robo",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "1",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Mechaniloid",
+    "Skill/Equip Name": "Scrap Recycle"
+  },
+  "CS01-069": {
+    "id": "CS01-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Docron",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-069%20Docron.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Docron",
+    "type": "Unit",
+    "cost": "1",
+    "Integrity": "2",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Robot",
+    "Skill/Equip Name": "Rolling Skull"
+  },
+  "CS01-070": {
+    "id": "CS01-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spooky",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-070%20Spooky.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spooky",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "3",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Invisible"
+  },
+  "CS01-071": {
+    "id": "CS01-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Junk Golem",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-071%20Junk%20Golem.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Junk Golem",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Robot",
+    "Skill/Equip Name": "Junk Block"
+  },
+  "CS01-072": {
+    "id": "CS01-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garakuta Robot",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-072%20Garakuta%20Robot.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garakuta Robot",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "8",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Mechaniloid",
+    "Skill/Equip Name": "Scrap Combining"
+  },
+  "CS01-073": {
+    "id": "CS01-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadow Man",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-073%20Shadow%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Man",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "7",
+    "Set": "CS01 - For Everlasting",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Shadow Blade"
+  },
+  "CS01-074": {
+    "id": "CS01-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morph Moth",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-074%20Morph%20Moth.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morph Moth",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Reploid/Maverick | Sigma's Rebellion",
+    "Skill/Equip Name": "Silk Shot"
+  },
+  "CS01-075": {
+    "id": "CS01-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "SkullMan.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-075%20SkullMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "SkullMan.EXE",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "Skull Crush"
+  },
+  "CS01-076": {
+    "id": "CS01-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bass",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-076%20Bass.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bass",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Robot | Wily Castle",
+    "Skill/Equip Name": "Bass Buster"
+  },
+  "CS01-077": {
+    "id": "CS01-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MagicMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-077%20MagicMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "MagicMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Net Navi | World Three",
+    "Skill/Equip Name": "Virus Summon"
+  },
+  "CS01-078": {
+    "id": "CS01-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "PharaohMan.EXE",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-078%20PharaohMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "PharaohMan.EXE",
+    "type": "Unit",
+    "cost": "7",
+    "Integrity": "14",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Net Navi | World Three",
+    "Skill/Equip Name": "Curse Attack"
+  },
+  "CS01-079": {
+    "id": "CS01-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Douglas",
+        "type": "Operator",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-079%20Douglas.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Douglas",
+    "type": "Operator",
+    "cost": "1",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Reploid | Maverick Hunters",
+    "Skill/Equip Name": "Installing Parts"
+  },
+  "CS01-080": {
+    "id": "CS01-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alia",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-080%20Alia.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alia",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Reploid | Maverick Hunters",
+    "Skill/Equip Name": "Danger Warning"
+  },
+  "CS01-081": {
+    "id": "CS01-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dex Oyama",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-081%20Dex%20Oyama.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dex Oyama",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human/Net Op | ACDC Town",
+    "Skill/Equip Name": "B. Chip: Guts Punch"
+  },
+  "CS01-082": {
+    "id": "CS01-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Light",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-082%20Dr.%20Light.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Light (CS01)",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human | Dr. Light's Lab",
+    "Skill/Equip Name": "Robotics Research"
+  },
+  "CS01-083": {
+    "id": "CS01-85",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eugene Chaud",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-083%20Eugene%20Chaud.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eugene Chaud",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human/Net Op",
+    "Skill/Equip Name": "B. Chip: Wide Sword"
+  },
+  "CS01-084": {
+    "id": "CS01-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lan Hikari",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-084%20Lan%20Hikari.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lan Hikari",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human/Net Op | ACDC Town",
+    "Skill/Equip Name": "B. Chip: Buster Plus"
+  },
+  "CS01-085": {
+    "id": "CS01-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yai Ayanokoji",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-085%20Yai%20Ayanokoji.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yai Ayanokoji",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human/Net Op | ACDC Town",
+    "Skill/Equip Name": "Rare Chip Shopping"
+  },
+  "CS01-086": {
+    "id": "CS01-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mayl Sakurai",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-086%20Mayl%20Sakurai.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mayl Sakurai",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human/Net Op | ACDC Town",
+    "Skill/Equip Name": "B. Chip: Recovery +50"
+  },
+  "CS01-087": {
+    "id": "CS01-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mr. Higsby",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-087%20Mr.%20Higsby.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mr. Higsby",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human/Net Op | ACDC Town/World Three",
+    "Skill/Equip Name": "B. Chip: Attack +10"
+  },
+  "CS01-088": {
+    "id": "CS01-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Signas",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-088%20Signas.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Signas",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Reploid | Maverick Hunters",
+    "Skill/Equip Name": "Hunter Rank"
+  },
+  "CS01-089": {
+    "id": "CS01-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ms. Madd",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-089%20Ms.%20Madd.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ms. Madd",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Fire",
+      "Aqua"
+    ],
+    "Traits": "Human/Net Op | World Three",
+    "Skill/Equip Name": "Red Lights"
+  },
+  "CS01-090": {
+    "id": "CS01-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Masa",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-090%20Masa.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Masa",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "Human/Net Op",
+    "Skill/Equip Name": "Fishing Spot"
+  },
+  "CS01-091": {
+    "id": "CS01-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Froid",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-091%20Dr.%20Froid.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Froid",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "Human/Net Op | World Three",
+    "Skill/Equip Name": "System Freeze"
+  },
+  "CS01-092": {
+    "id": "CS01-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sal",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-092%20Sal.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sal",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Human/Net Op",
+    "Skill/Equip Name": "Nature Conservation"
+  },
+  "CS01-093": {
+    "id": "CS01-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ms. Yuri",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-093%20Ms.%20Yuri.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ms. Yuri",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Human/Net Op | Nebula",
+    "Skill/Equip Name": "Tactical Sabotage"
+  },
+  "CS01-094": {
+    "id": "CS01-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yahoot",
+        "type": "Operator",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-094%20Yahoot.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yahoot",
+    "type": "Operator",
+    "cost": "1",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Human/Net OP | World Three",
+    "Skill/Equip Name": "Meditation"
+  },
+  "CS01-095": {
+    "id": "CS01-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Wily",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-095%20Dr.%20Wily.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Wily",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Human | Wily Castle",
+    "Skill/Equip Name": "Dr. Wily"
+  },
+  "CS01-096": {
+    "id": "CS01-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miyu",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-096%20Miyu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miyu",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Human/Net Op",
+    "Skill/Equip Name": "Clairvoyance"
+  },
+  "CS01-097": {
+    "id": "CS01-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leg Parts",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-097%20Leg%20Parts.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leg Parts",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Parts/First Armor | Reploid Era",
+    "Skill/Equip Name": "Leg Parts"
+  },
+  "CS01-098": {
+    "id": "CS01-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Item-2",
+        "type": "Item",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-098%20Item-2.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Item-2",
+    "type": "Item",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Transportation | Robot Era",
+    "Skill/Equip Name": "Item-2"
+  },
+  "CS01-099": {
+    "id": "CS01-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Life Up",
+        "type": "Item",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-099%20Life%20Up.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Life Up",
+    "type": "Item",
+    "cost": "4",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Parts | Reploid Era",
+    "Skill/Equip Name": "Life Up"
+  },
+  "CS01-100": {
+    "id": "CS01-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arm Parts",
+        "type": "Item",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-100%20Arm%20Parts.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arm Parts",
+    "type": "Item",
+    "cost": "5",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Parts/First Armor | Reploid Era",
+    "Skill/Equip Name": "Arm Parts"
+  },
+  "CS01-101": {
+    "id": "CS01-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lava Stage",
+        "type": "Item",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-101%20Lava%20Stage.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lava Stage",
+    "type": "Item",
+    "cost": "4",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Fire"
+    ],
+    "Traits": "Battle Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: Lava Seed"
+  },
+  "CS01-102": {
+    "id": "CS01-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sea Stage",
+        "type": "Item",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-102%20Sea%20Stage.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sea Stage",
+    "type": "Item",
+    "cost": "4",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Aqua"
+    ],
+    "Traits": "Battle Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: Sea Seed"
+  },
+  "CS01-103": {
+    "id": "CS01-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grass Stage",
+        "type": "Item",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-103%20Grass%20Stage.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grass Stage",
+    "type": "Operator",
+    "cost": "4",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Battle Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: Grass Seed"
+  },
+  "CS01-104": {
+    "id": "CS01-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sigma Virus",
+        "type": "Item",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-104%20Sigma%20Virus.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sigma Virus",
+    "type": "Item",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Virus | Reploid Era",
+    "Skill/Equip Name": "Sigma Virus"
+  },
+  "CS01-105": {
+    "id": "CS01-105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poison Stage",
+        "type": "Item",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-105%20Poison%20Stage.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poison Stage",
+    "type": "Item",
+    "cost": "4",
+    "Integrity": "",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Battle Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: Poison Seed"
+  },
+  "CS01-106": {
+    "id": "CS01-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ProtoMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-106%20ProtoMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "ProtoMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "B. Chip: Variable Sword"
+  },
+  "CS01-107": {
+    "id": "CS01-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sigma",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-107%20Sigma.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sigma",
+    "type": "Unit",
+    "cost": "7",
+    "Integrity": "14",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion",
+    "Skill/Equip Name": "Beam Saber"
+  },
+  "CS01-108": {
+    "id": "CS01-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wily Machine 1",
+        "type": "Unit",
+        "cost": "10",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS01%20-%20For%20Everlasting%20Peace/CS01-108%20Wily%20Machine%201.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wily Machine 1",
+    "type": "Extra Folder",
+    "cost": "10",
+    "Integrity": "20",
+    "Set": "CS01 - For Everlasting Peace",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Machine | Wily Castle",
+    "Skill/Equip Name": ""
   }
 }
