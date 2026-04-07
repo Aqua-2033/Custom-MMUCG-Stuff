@@ -286,7 +286,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dr. Light",
+    "name": "Dr. Light (SD01)",
     "type": "Operator",
     "cost": "2",
     "Integrity": 0,
@@ -4261,7 +4261,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dr. Wily",
+    "name": "Dr. Wily (CS01)",
     "type": "Operator",
     "cost": "2",
     "Integrity": "",
@@ -5307,5 +5307,927 @@
     ],
     "Traits": "Mechaniloid",
     "Skill/Equip Name": "Flying Machine"
+  },
+  "CS02-033": {
+    "id": "CS02-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Metal Wing",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-033%20Metal%20Wing.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metal Wing",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "4",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Mechaniloid",
+    "Skill/Equip Name": "Gliding Dive"
+  },
+  "CS02-034": {
+    "id": "CS02-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mosqurito",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-034%20Mosqurito.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mosqurito",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "4",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Drain"
+  },
+  "CS02-035": {
+    "id": "CS02-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pipi",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-035%20Pipi.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pipi",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Robot",
+    "Skill/Equip Name": "Egg Capsule"
+  },
+  "CS02-036": {
+    "id": "CS02-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wind Box",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-036%20Wind%20Box.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wind Box",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "9",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Fan"
+  },
+  "CS02-037": {
+    "id": "CS02-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "AirMan.EXE",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-037%20AirMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "AirMan.EXE",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "7",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Net Navi | Gospel",
+    "Skill/Equip Name": "Air Shooter"
+  },
+  "CS02-038": {
+    "id": "CS02-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Overdrive Ostrich",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-038%20Overdrive%20Ostrich.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Overdrive Ostrich",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "8",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion",
+    "Skill/Equip Name": "Sonic Slicer"
+  },
+  "CS02-039": {
+    "id": "CS02-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Storm Eagle",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-039%20Storm%20Eagle.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Storm Eagle",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion",
+    "Skill/Equip Name": "Storm Tornado"
+  },
+  "CS02-040": {
+    "id": "CS02-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blast Hornet",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-040%20Blast%20Hornet.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blast Hornet",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Reploid/Maverick | Maverick Hunters/Doppler Army",
+    "Skill/Equip Name": "Parasitic Bomb"
+  },
+  "CS02-041": {
+    "id": "CS02-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ThunderMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-041%20ThunderMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "ThunderMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind",
+      "Elec"
+    ],
+    "Traits": "Net Navi",
+    "Skill/Equip Name": "Electric Discharge"
+  },
+  "CS02-042": {
+    "id": "CS02-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gyro Man",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-042%20Gyro%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gyro Man",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Gyro Attack"
+  },
+  "CS02-043": {
+    "id": "CS02-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gabyoall",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-043%20Gabyoall.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gabyoall",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "1",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Robot",
+    "Skill/Equip Name": "Gliding Bash"
+  },
+  "CS02-044": {
+    "id": "CS02-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rush",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-044%20Rush.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rush (CS02)",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "3",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Pop Up"
+  },
+  "CS02-045": {
+    "id": "CS02-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Degraver",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-045%20Degraver.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Degraver",
+    "type": "Unit",
+    "cost": "2",
+    "Integrity": "4",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Mechaniloid",
+    "Skill/Equip Name": "Pickaxe Strike"
+  },
+  "CS02-046": {
+    "id": "CS02-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaia",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-046%20Gaia.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaia",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "5",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Virus",
+    "Skill/Equip Name": "B. Chip: Gaia Hammer"
+  },
+  "CS02-047": {
+    "id": "CS02-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mole Borer",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-047%20Mole%20Borer.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mole Borer",
+    "type": "Unit",
+    "cost": "3",
+    "Integrity": "6",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Mechaniloid",
+    "Skill/Equip Name": "Spiky Steamroller"
+  },
+  "CS02-048": {
+    "id": "CS02-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oil Man",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-048%20Oil%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oil Man",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "7",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Oil Slider"
+  },
+  "CS02-049": {
+    "id": "CS02-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armored Armadillo",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-049%20Armored%20Armadillo.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armored Armadillo",
+    "type": "Unit",
+    "cost": "4",
+    "Integrity": "8",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Reploid/Maverick | Maverick Hunters/Sigma's Rebellion",
+    "Skill/Equip Name": "Rolling Shield"
+  },
+  "CS02-050": {
+    "id": "CS02-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "StoneMan.EXE",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-050%20StoneMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "StoneMan.EXE",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "9",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Net Navi | World Three",
+    "Skill/Equip Name": "Stone Fall"
+  },
+  "CS02-051": {
+    "id": "CS02-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guts Man",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-051%20Guts%20Man.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guts Man",
+    "type": "Unit",
+    "cost": "5",
+    "Integrity": "10",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Robot | Robot Masters",
+    "Skill/Equip Name": "Guts Stomp"
+  },
+  "CS02-052": {
+    "id": "CS02-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "DesertMan.EXE",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-052%20DesertMan.EXE.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "DesertMan.EXE",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "11",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Net Navi | World Three",
+    "Skill/Equip Name": "Lion Head"
+  },
+  "CS02-053": {
+    "id": "CS02-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Violen",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-053%20Violen.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Violen",
+    "type": "Unit",
+    "cost": "6",
+    "Integrity": "12",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Reploid/Maverick | Maverick Hunters/X-Hunters",
+    "Skill/Equip Name": "Hammer Attack"
+  },
+  "CS02-054": {
+    "id": "CS02-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Light",
+        "type": "Operator",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-054%20Dr.%20Light.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Light (CS02)",
+    "type": "Operator",
+    "cost": "1",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human | Dr. Light's Lab",
+    "Skill/Equip Name": "Light Capsule"
+  },
+  "CS02-055": {
+    "id": "CS02-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Cain",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-055%20Dr.%20Cain.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Cain",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Human | Maverick Hunters",
+    "Skill/Equip Name": "Body Reconstruction"
+  },
+  "CS02-056": {
+    "id": "CS02-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rei Saiko",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-056%20Rei%20Saiko.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rei Saiko",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Elec"
+    ],
+    "Traits": "Human/Net Op | World Three",
+    "Skill/Equip Name": "Hypnosis Rays"
+  },
+  "CS02-057": {
+    "id": "CS02-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anetta",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-057%20Anetta.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anetta",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wood"
+    ],
+    "Traits": "Human/Net Op | World Three",
+    "Skill/Equip Name": "Life Support Sabotage"
+  },
+  "CS02-058": {
+    "id": "CS02-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Wily",
+        "type": "Operator",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-058%20Dr.%20Wily.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Wily (CS02)",
+    "type": "Operator",
+    "cost": "1",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Human | World Three",
+    "Skill/Equip Name": "Super-Program Research"
+  },
+  "CS02-059": {
+    "id": "CS02-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "X-Hunters",
+        "type": "Operator",
+        "cost": "1",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-059%20X-Hunters.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "X-Hunters",
+    "type": "Operator",
+    "cost": "1",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Reploid/Maverick | Sigma's Rebellion/X-Hunters",
+    "Skill/Equip Name": "X-Hunter Ambush"
+  },
+  "CS02-060": {
+    "id": "CS02-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dusk",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-060%20Dusk.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dusk",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Human/Net Op | World Three",
+    "Skill/Equip Name": "Assassination Target"
+  },
+  "CS02-061": {
+    "id": "CS02-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arashi Kazefuki",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-061%20Arashi%20Kazefuki.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arashi Kazefuki",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Human/Net Op | Gospel",
+    "Skill/Equip Name": "Sleeping Gas"
+  },
+  "CS02-062": {
+    "id": "CS02-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raoul",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-062%20Raoul.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raoul",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind",
+      "Elec"
+    ],
+    "Traits": "Human/Net Op",
+    "Skill/Equip Name": "Thunderstorm Warning"
+  },
+  "CS02-063": {
+    "id": "CS02-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yui Hazuki",
+        "type": "Operator",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-063%20Yui%20Hazuki.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yui Hazuki",
+    "type": "Operator",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Human/Net Op",
+    "Skill/Equip Name": "Reconstruction Materials"
+  },
+  "CS02-064": {
+    "id": "CS02-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noboru Sunayama",
+        "type": "Operator",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-064%20Noboru%20Sunayama.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noboru Sunayama",
+    "type": "Operator",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Human/Net Op | World Three",
+    "Skill/Equip Name": "B. Chip: Rock Cube"
+  },
+  "CS02-065": {
+    "id": "CS02-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Body Parts",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-065%20Body%20Parts.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Body Parts",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Parts/First Armor | Reploid Era",
+    "Skill/Equip Name": "Body Parts"
+  },
+  "CS02-066": {
+    "id": "CS02-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Green Mystery Data",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-066%20Green%20Mystery%20Data.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Green Mystery Data",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Consumable | Navi Era",
+    "Skill/Equip Name": "Green Mystery Data"
+  },
+  "CS02-067": {
+    "id": "CS02-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Head Parts",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-067%20Head%20Parts.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Head Parts",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Parts/First Armor | Reploid Era",
+    "Skill/Equip Name": "Head Parts"
+  },
+  "CS02-068": {
+    "id": "CS02-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Score Ball",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-068%20Score%20Ball.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Score Ball",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Consumable | Robot Era",
+    "Skill/Equip Name": "Bonus Score"
+  },
+  "CS02-069": {
+    "id": "CS02-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "North Wind",
+        "type": "Item",
+        "cost": "3",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-069%20North%20Wind.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "North Wind",
+    "type": "Item",
+    "cost": "3",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Wind"
+    ],
+    "Traits": "Battle Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: North Wind"
+  },
+  "CS02-070": {
+    "id": "CS02-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Panel Return",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-070%20Panel%20Return.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Panel Return",
+    "type": "Item",
+    "cost": "2",
+    "Integrity": "",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Ground"
+    ],
+    "Traits": "Battle Chip | Navi Era",
+    "Skill/Equip Name": "B. Chip: Panel Return"
+  },
+  "CS02-071": {
+    "id": "CS02-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "First Armor X",
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-071%20First%20Armor%20X.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "First Armor X",
+    "type": "Extra Folder",
+    "cost": "8",
+    "Integrity": "16",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Neutral"
+    ],
+    "Traits": "Reploid/Armor Form | Maverick Hunters",
+    "Skill/Equip Name": ""
+  },
+  "CS02-072": {
+    "id": "CS02-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Life Virus",
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://github.com/Aqua-2033/MMUCG-Stuff/blob/main/Card%20Images/CS02%20-%20Limitless%20Potential/CS02-072%20Life%20Virus.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Life Virus",
+    "type": "Extra Folder",
+    "cost": "8",
+    "Integrity": "16",
+    "Set": "CS02 - Limitless Potential",
+    "Element": [
+      "Dark"
+    ],
+    "Traits": "Virus | World Three",
+    "Skill/Equip Name": ""
   }
 }
