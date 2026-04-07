@@ -3272,7 +3272,7 @@
       }
     },
     "name": "Spark Man",
-    "type": "Stage",
+    "type": "Unit",
     "cost": "4",
     "Integrity": "8",
     "Set": "CS01 - For Everlasting Peace",
