@@ -996,7 +996,7 @@
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-          },
+          }
         }
       }
     }
