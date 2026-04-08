@@ -95,6 +95,22 @@
           "Unit_Panel-7",
           "Unit_Panel-8",
           "Unit_Panel-9",
+          "Stage_Under",
+          "Item_Under-1",
+          "Item_Under-2",
+          "Operator_Under-1",
+          "Operator_Under-2",
+          "Operator_Under-3",
+          "Operator_Under-4",
+          "Unit_Under-1",
+          "Unit_Under-2",
+          "Unit_Under-3",
+          "Unit_Under-4",
+          "Unit_Under-5",
+          "Unit_Under-6",
+          "Unit_Under-7",
+          "Unit_Under-8",
+          "Unit_Under-9",
           "Extra_Folder"
         ],
         "layout": {
@@ -108,6 +124,29 @@
                 "width": "100vh"
               },
               "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Item_Under-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-7",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-8",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-9",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
                 {
                   "direction": "row",
                   "style": false,
@@ -136,6 +175,29 @@
                   "style": false,
                   "content": [
                     {
+                      "section": "Stage_Under",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-4",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-5",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-6",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
                       "section": "Stage_Panel",
                       "style": false
                     },
@@ -149,6 +211,29 @@
                     },
                     {
                       "section": "Unit_Panel-6",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Item_Under-2",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-2",
+                      "style": false
+                    },
+                    {
+                      "section": "Unit_Under-3",
                       "style": false
                     }
                   ],
@@ -192,11 +277,41 @@
                   "style": false,
                   "content": [
                     {
+                      "section": "Operator_Under-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Operator_Under-2",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
                       "section": "Operator_Panel-1",
                       "style": false
                     },
                     {
                       "section": "Operator_Panel-2",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Operator_Under-3",
+                      "style": false
+                    },
+                    {
+                      "section": "Operator_Under-4",
                       "style": false
                     }
                   ],
@@ -625,7 +740,263 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
-          }
+          },
+          "Item_Under-1": {
+            "title": "Item_Under-1",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Item Under 1",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Item_Under-2": {
+            "title": "Item_Under-2",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Item Under 2",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unit_Under-1": {
+            "title": "Unit_Under-1",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unit Under 1",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unit_Under-2": {
+            "title": "Unit_Under-2",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unit Under 2",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unit_Under-3": {
+            "title": "Unit_Under-3",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unit Under 3",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unit_Under-4": {
+            "title": "Unit_Under-4",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unit Under 4",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unit_Under-5": {
+            "title": "Unit_Under-5",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unit Under 5",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unit_Under-6": {
+            "title": "Unit_Under-6",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unit Under 6",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unit_Under-7": {
+            "title": "Unit_Under-7",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unit Under 7",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unit_Under-8": {
+            "title": "Unit_Under-8",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unit Under 8",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unit_Under-9": {
+            "title": "Unit_Under-9",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unit Under 9",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Operator_Under-1": {
+            "title": "Operator_Under-1",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Operator Under 1",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Operator_Under-2": {
+            "title": "Operator_Under-2",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Operator Under 2",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Operator_Under-3": {
+            "title": "Operator_Under-3",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Operator Under 3",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Operator_Under-4": {
+            "title": "Operator_Under-4",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Operator Under 4",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stage_Under": {
+            "title": "Stage_Under",
+            "isHidden": "no",
+            "height": "TINY",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Stage Under",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
         }
       }
     }
