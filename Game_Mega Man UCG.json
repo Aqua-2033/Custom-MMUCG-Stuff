@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/StarterDecks.json"
   },
-  "customHelp": "The rows containing your Unit, Item and Stage panels are treated as being horizontally aligned to your opponent's. Also, there are Token cards for modifiers and status effects.",
+  "customHelp": "The rows containing your Unit, Item and Stage panels are treated as being horizontally aligned to your opponent's. Also, there are Token cards for modifiers and status effects. The player counters represent the RAM Gauges.",
   "cardRotation": 45,
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/Aqua-2033/MMUCG-Stuff/refs/heads/main/CardList.json",
@@ -71,7 +71,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": "0"
       },
-      "defaultNotes": "The player counters represent the RAM Gauges.",
+      "defaultNotes": "Setup Phase Procedures: Resource Step -> Maintenance Step -> Operator Step -> Main Step",
       "tokens": [],
       "countersStartingValues": [
         0
