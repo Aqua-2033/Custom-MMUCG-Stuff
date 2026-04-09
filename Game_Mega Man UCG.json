@@ -152,7 +152,7 @@
             {
               "direction": "column",
               "style": {
-                "justifyContent": "start",
+                "justifyContent": "center",
                 "width": "25vh"
               },
               "content": [
@@ -186,75 +186,125 @@
             {
               "direction": "column",
               "style": {
-                "justifyContent": "start",
-                "width": "50vh"
+                "justifyContent": "center",
+                "width": "25vh"
               },
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Operator_Under-1",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Under-2",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                   "section": "Unit_Under-8",
+                   "style": false
                 },
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Operator_Panel-1",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Panel-2",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                   "section": "Unit_Panel-8",
+                   "style": false
                 },
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Operator_Under-3",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Under-4",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                   "section": "Unit_Under-5",
+                   "style": false
                 },
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Operator_Panel-3",
-                      "style": false
-                    },
-                    {
-                      "section": "Operator_Panel-4",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "Unit_Panel-5",
+                  "style": false
                 },
                 {
-                  "section": "Extra_Folder",
+                   "section": "Unit_Under-2",
+                   "style": false
+                },
+                {
+                   "section": "Unit_Panel-2",
+                   "style": false
+                 }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": {
+                "justifyContent": "center",
+                "width": "25vh"
+              },
+              "content": [
+                {
+                   "section": "Unit_Under-9",
+                   "style": false
+                },
+                {
+                   "section": "Unit_Panel-9",
+                   "style": false
+                },
+                {
+                   "section": "Unit_Under-6",
+                   "style": false
+                },
+                {
+                  "section": "Unit_Panel-6",
+                  "style": false
+                },
+                {
+                   "section": "Unit_Under-3",
+                   "style": false
+                },
+                {
+                   "section": "Unit_Panel-3",
+                   "style": false
+                 }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": {
+                "justifyContent": "center",
+                "width": "25vh"
+              },
+              "content": [
+                {
+                   "section": "Operator_Under-1",
+                   "style": false
+                },
+                {
+                   "section": "Operator_Panel-1",
+                   "style": false
+                },
+                {
+                   "section": "Operator_Under-3",
+                   "style": false
+                 },
+                 {
+                   "section": "Operator_Panel-3",
+                   "style": false
+                 },
+                 {
+                   "section": "Extra_Folder",
+                   "style": false
+                 }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": {
+                "justifyContent": "center",
+                "width": "25vh"
+              },
+              "content": [
+                {
+                   "section": "Operator_Under-2",
+                   "style": false
+                },
+                {
+                  "section": "Operator_Panel-2",
+                  "style": false
+                },
+                {
+                  "section": "Operator_Under-4",
+                  "style": false
+                },
+                {
+                  "section": "Operator_Panel-4",
                   "style": false
                 }
-              ],
+               ],
               "isSymetricalForOpponents": false
             }
           ]
