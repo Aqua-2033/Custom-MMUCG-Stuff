@@ -761,7 +761,7 @@
             "isHidden": "no",
             "height": "2",
             "alignment": "DECK",
-            "opponentAlignment": true,
+            "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Item Under 1",
